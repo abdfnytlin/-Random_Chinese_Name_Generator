@@ -1,4 +1,4 @@
-# Random_Chinese_Name_Generator
+# Random Chinese Name Generator
 
 This application is made with Python GUI module "tkinter" and is written in Traditional Chinese.\
 \
